@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Rubik";
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 60px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    align-items: center;
+    font-family: "Rubik";
+    
+}
+
+.sign{
+    width: 120px;
+    height: 50.41px;
+    border-radius: 5px;
+    background-color: #FF7A50;
+    border: none;
+    margin-left: 34px;
+}
+
+.sign>span{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.33px;
+}
+
+.class{
+    color: #FF6838;
+
+}
+
+a{
+    color: #363853;
+    font-family: "Rubik", sans-serif;
+}
+
+.text{
+    width: 530px;
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78.21px;
+    color: #363853;
+    margin-top: 215px;
+}
+
+.header{
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78.21px;
+    color: #FF7A50;
+}
+
+.text2{
+    width: 513px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #363853;
+}
+
+.b1{
+    width: 163px;
+    height: 50.41px;
+    border: none;
+    background-color: #FF7A50;
+    margin-top: 45px;
+}
+
+.b1>span{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.7px;
+}
+.food{
+    color: #FF7A50;
+}
+
+.asosiy{
+     display: flex; 
+}
+
+.stay{
+    width: 384px;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+}
+
+.stay1{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    color: #FF7A50;
+}
+
+.text3{
+    width: 449px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 95px;
+    color: #363853;
+}
+
+.asosiy3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.p{
+    margin-top: 110px;
+}
+
+.b2{
+    width: 176px;
+    height: 58px;
+    border-radius: 30px 30px 1px ;
+    border: none;
+    background-color: #FF7A50;
+    margin-top: 141px;
+}
+
+.b2>span{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.7px;
+    color: white;
+}
+
+.topfood{
+     width: 360px;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 30px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.restaurant{
+    color: #FF7A50;
+}
+
+.bp{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #363853;
+}
+
+.am{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #363853;
+    margin-left: 8px;
+}
+
+.timer{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+
+}
+
+
+
+.food1{
+    margin-top: 50px;
+}
+
+.pd{
+    margin-left: 20px;
+}
+
+.food0{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.st{
+    margin-left: 20px;
+}
+
+.section{
+    margin-top: 300px;
+}
+
+.dp{
+    width: 454px;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+}
+
+.ma{
+    color: #FF7A50;
+}
+
+.finger{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #363853;
+    margin-top: 30px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    width: 100%;
+    height: 312px;
+    background: #FF7A50;
+    border-radius: 20px;
+    margin-top: 110px;
+}
+
+.sr{
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 47.4px;
+}
+.footer2{
+    width: 838.5px;
+    height: 78px;
+    border-radius: 70px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 97px;
+    
+}
+
+.es{
+    margin-left: 45px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.subscribe{
+    width: 191.1px;
+    height: 58.5px;
+    border-radius: 70px;
+    background-color: #FF7A50;
+    display: flex;
+    align-items: center;
+    margin-left: 387px;
+}
+
+.sub{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+
+
+
+
+
+
+
